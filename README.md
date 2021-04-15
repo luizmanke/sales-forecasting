@@ -1,4 +1,4 @@
-# Virus Transmission
+# Sales Forecasting
 
 Online shopping has grown in popularity over the years, mainly because people find it convenient and easy to bargain shop from the comfort of their home or office.
 
