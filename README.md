@@ -7,7 +7,7 @@ In this project, we will take a look at an online store historical data from 201
 
 Our goal is to search for insights that can help us to take better decisions in order to consolidate the brand in the market, forecast our sales and improve our grouth rate.
 
-<center><img src='images/forecast.png'/></center>
+<div style='text-align:center'><img src='images/forecast.png'/></div>
 
 ## Development
 
